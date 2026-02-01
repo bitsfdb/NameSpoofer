@@ -75,10 +75,10 @@
     <ClCompile Include="pch.cpp">
       <Filter>PCH</Filter>
     </ClCompile>
-    <ClCompile Include="$projectname$.cpp">
+    <ClCompile Include="GuiBase.cpp">
       <Filter>Plugin\src</Filter>
     </ClCompile>
-    <ClCompile Include="GuiBase.cpp">
+    <ClCompile Include="NameSpoofer.cpp">
       <Filter>Plugin\src</Filter>
     </ClCompile>
   </ItemGroup>
@@ -131,18 +131,18 @@
     <ClInclude Include="pch.h">
       <Filter>PCH</Filter>
     </ClInclude>
-    <ClInclude Include="$projectname$.h">
-      <Filter>Plugin\header</Filter>
-    </ClInclude>
     <ClInclude Include="logging.h">
       <Filter>Plugin\header</Filter>
     </ClInclude>
     <ClInclude Include="GuiBase.h">
       <Filter>Plugin\header</Filter>
     </ClInclude>
+    <ClInclude Include="NameSpoofer.h">
+      <Filter>Plugin\header</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="UpgradeTest.rc">
+    <ResourceCompile Include="rc NameSpoofer.rc">
       <Filter>Resource Files</Filter>
     </ResourceCompile>
   </ItemGroup>
