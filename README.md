@@ -1,12 +1,8 @@
-# BakkesmodPluginTemplate
+# NameSpoofer
 
-## Instructions for use
- 1. Download the repo as a zip 
- 2. Move the zip into Documents\Visual Studio 2022\Templates\ProjectTemplates
- 3. Unpack the zip 
- 4. Restart your computer
- 5. Start visual studio. Create a new project and you should see BakkesModPlugin as a project template
- 6. Profit $$$
+hey, this plugin allow's you to spoof your name in freeplay, this does NOT work in PRIVATE MATCHES AND ONLINE MATCHES.
+do not contact me about this issue as it is IMPOSSIBLE to do without breaking Rocket League ToS
 
-### Video showing every step above (Except the restart)
-[ClickMe](https://youtu.be/Pd3Sa5VWEmc)
+to contact me for suggestions and update's
+1. Discord - sfdb
+2. E-Mail sfdb8566@gmail.com
